@@ -1,0 +1,31 @@
+.photograhy{
+  margin-top: 200px;
+}
+
+.col-md-4{
+  height: 100px;
+}
+
+#container {
+  width: 100%;
+  margin: 5em auto;
+  padding: 0;
+  background:#fff;
+}
+
+#gallery{
+  padding-top: 150px;
+  text-align: center;
+}
+
+.items {
+  max-width:300px;
+  height:20px;
+  margin: 20px;
+  background:#ECECEC;
+}
+
+#left, #right {
+  margin: 30px;
+  height: 40px;
+}
